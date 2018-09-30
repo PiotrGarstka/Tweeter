@@ -1,4 +1,4 @@
 # Tweeter
-• adding and editing users
-• adding and editing tweets
+• adding and editing users<br>
+• adding and editing tweets<br>
 technologies: Spring, Hibernate
